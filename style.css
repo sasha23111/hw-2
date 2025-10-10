@@ -44,7 +44,7 @@ span{
 
 .hero{
 
-    background-image:  url("./src/imgs/d8899af10356ff5da2cbed8122c6573ace2dbe0c.png") ;
+    background-image:  url("./src/imgs/d8899af10356ff5da2cbed8122c6573ace2dbe0c.avif") ;
     background-repeat: no-repeat;
     background-size: 100%;
     background-position: center;
@@ -130,7 +130,7 @@ text-align: center;
 
 }
 .features{
-    background-image: url("src/imgs/02a348c9ca8f90d0ccef6376cfe3bea6c5f383ff.png");
+    background-image: url("src/imgs/02a348c9ca8f90d0ccef6376cfe3bea6c5f383ff\ \(1\).avif");
     background-size: cover;
     background-position: center;
 
@@ -138,7 +138,7 @@ text-align: center;
 
 .feature-item:nth-child(1)::after{
 content:"";
-background-image: url("src/imgs/Звёзды\ 1.png");
+background-image: url("src/imgs/89387c4c5eb6b22a83e088b4ea7e222f91c352e0.avif");
 background-size: cover;
 display: block;
 width: 240px;
@@ -147,7 +147,7 @@ height: 240px;
 
 .feature-item:nth-child(2)::before{
 content:"";
-background-image: url("src/imgs/краски\ 1.png");
+background-image: url("src/imgs/7f4fc61d737023fd546e88885e8c9008c4d610ce.avif");
 background-size: cover;
 display: block;
 width: 240px;
@@ -156,7 +156,7 @@ height: 240px;
 
 .feature-item:nth-child(3)::after{
 content:"";
-background-image: url("src/imgs/грузан\ 1.png");
+background-image: url("src/imgs/fcd99d36c9c000142f8e4a0996505d473f66765f\ \(1\).avif");
 background-size: cover;
 display: block;
 width: 240px;
@@ -167,7 +167,7 @@ height: 240px;
 }
 
 .main-reviews{
-    background-image: url("src/imgs/7a173c3937d7544e83c5fa3bb2751746a97cf07e.png");
+    background-image: url("src/imgs/7a173c3937d7544e83c5fa3bb2751746a97cf07e.avif");
     background-size: cover;
     background-position: center;
 }
@@ -201,7 +201,7 @@ color: #FFFFFF;
 }
 
 .box-Order{
-    background-image: url("src/imgs/8bd1f39fd36d6415bb30ba2c1e3ea99caa7e017f.png");
+    background-image: url("src/imgs/8bd1f39fd36d6415bb30ba2c1e3ea99caa7e017f.avif");
         background-size: cover;
     background-position: center;
 }
@@ -228,4 +228,7 @@ font-size: 24px;
 .order1{
 font-size: 28px;
 
+}
+footer{
+    background-color: #021635;
 }
