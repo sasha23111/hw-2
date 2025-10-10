@@ -1,0 +1,231 @@
+header{
+    background-color: #012D63;
+
+}
+.header-web1{
+font-family: Roboto;
+font-weight: 400;
+font-style: Regular;
+font-size: 24px;
+text-decoration: none;
+line-height: 100%;
+letter-spacing: 0%;
+color: #fff;
+}
+.header-web{
+ font-family: Roboto;
+font-weight: 300;
+font-style: Light;
+font-size: 24px;
+line-height: 100%;
+letter-spacing: 0%;
+text-decoration: none;
+color: #C7C7C7;
+}
+.header-web{
+    list-style: none;
+}
+
+
+
+.header-logo{
+ width: 100;
+height: 60;
+top: 16px;
+left: 168px;
+opacity: 1;
+
+}
+
+span{
+    color: #fff;
+}
+
+
+.hero{
+
+    background-image:  url("./src/imgs/d8899af10356ff5da2cbed8122c6573ace2dbe0c.png") ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+
+    
+}
+.logo-name{
+    font-family: PT Serif;
+font-weight: 400;
+font-style: Regular;
+font-size: 48px;
+line-height: 100%;
+letter-spacing: 0%;
+color: #fff;
+}
+.page-name{
+    font-family: Playfair Display;
+font-weight: 400;
+font-style: Regular;
+font-size: 144px;
+line-height: 100%;
+letter-spacing: 0%;
+color: #fff;
+}
+
+.page-dream{
+    font-family: Playfair Display;
+font-weight: 400;
+font-style: Regular;
+font-size: 72px;
+line-height: 100%;
+letter-spacing: 0%;
+color: #fff;
+}
+
+.page-info{
+    font-family: Roboto;
+font-weight: 400;
+font-style: Regular;
+font-size: 18px;
+line-height: 100%;
+letter-spacing: 0%;
+color: #fff;
+}
+
+.button{
+    font-family: Roboto;
+font-weight: 400;
+font-style: Regular;
+font-size: 24px;
+line-height: 100%;
+letter-spacing: 0%;
+color: #fff;
+background-color: #8E32C6;
+width: 254px;
+height: 67px;
+top: 698px;
+left: 165px;
+border-radius: 10px;
+
+}
+.feature-item{
+    font-family: Playfair Display;
+font-weight: 400;
+font-style: Regular;
+font-size: 36px;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+color: #FFFFFF;
+
+}
+
+.revievs{
+    font-family: Playfair Display;
+font-weight: 400;
+font-style: Regular;
+font-size: 48px;
+color: #FFFFFF;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+
+}
+.features{
+    background-image: url("src/imgs/02a348c9ca8f90d0ccef6376cfe3bea6c5f383ff.png");
+    background-size: cover;
+    background-position: center;
+
+}
+
+.feature-item:nth-child(1)::after{
+content:"";
+background-image: url("src/imgs/Звёзды\ 1.png");
+background-size: cover;
+display: block;
+width: 240px;
+height: 240px;
+}
+
+.feature-item:nth-child(2)::before{
+content:"";
+background-image: url("src/imgs/краски\ 1.png");
+background-size: cover;
+display: block;
+width: 240px;
+height: 240px;
+}
+
+.feature-item:nth-child(3)::after{
+content:"";
+background-image: url("src/imgs/грузан\ 1.png");
+background-size: cover;
+display: block;
+width: 240px;
+height: 240px;
+}
+.feature-item{
+    
+}
+
+.main-reviews{
+    background-image: url("src/imgs/7a173c3937d7544e83c5fa3bb2751746a97cf07e.png");
+    background-size: cover;
+    background-position: center;
+}
+.people-text{
+    font-family: Roboto;
+font-weight: 400px;
+font-style: Regular;
+font-size: 24px;
+line-height: 100%;
+letter-spacing: 0%;
+color: #FFFFFF;
+}
+.date{
+    font-family: Roboto;
+font-weight: 400px;
+font-style: Regular;
+font-size: 14px;
+line-height: 100%;
+letter-spacing: 0%;
+color: #D8D8D8;
+}
+
+.people-name{
+    font-family: Roboto;
+font-weight: 400;
+font-style: Regular;
+font-size: 14px;
+line-height: 100%;
+letter-spacing: 0%;
+color: #FFFFFF;
+}
+
+.box-Order{
+    background-image: url("src/imgs/8bd1f39fd36d6415bb30ba2c1e3ea99caa7e017f.png");
+        background-size: cover;
+    background-position: center;
+}
+.order{
+    font-family: Playfair Display;
+font-weight: 400px;
+font-style: Regular;
+font-size: 48px;
+line-height: 100%;
+letter-spacing: 0%;
+color: #FFFFFF;
+}
+
+.text-order{
+    width: 690px;
+height: 60px;
+top: 2192px;
+left: 375px;
+opacity: 1;
+border-radius: 50px;
+font-size: 24px;
+}
+
+.order1{
+font-size: 28px;
+
+}
