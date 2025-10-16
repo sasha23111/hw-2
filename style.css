@@ -416,4 +416,16 @@ display: flex;
 .people-info{
     padding-top: 40px;
     padding-left: 10px;
+
+}
+
+
+.box-footer:nth-child(6){
+padding-bottom: 50px ;
+border-bottom: 1px solid #ffffff;
+}
+
+.order{
+    display: flex;
+    flex-direction: column;
 }
