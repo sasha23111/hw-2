@@ -35,6 +35,7 @@ header {
   top: 16px;
   left: 168px;
   opacity: 1;
+  
 }
 
 span {
@@ -131,14 +132,15 @@ span {
 }
 .feature-box {
   padding: 25px 50px;
-  border: 5px solid #8e32c6;
   display: flex;
   justify-content: center;
-  width: 1110px;
-  height: 396px;
-  top: 1053px;
-  left: 165px;
-  opacity: 1;
+ 
+
+}
+.box{
+border: 5px solid #8e32c6;
+
+
 }
 
 .feature-item:nth-child(1)::after {
@@ -397,7 +399,7 @@ footer {
 .revievs-people {
   display: flex;
   gap: 93px;
-
+padding-left: 100px;
 }
 
 .people-date {
@@ -460,3 +462,5 @@ footer {
 .footer-logo {
   padding-bottom: 20px;
 }
+
+
